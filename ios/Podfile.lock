@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - share (0.0.1):
+    - Flutter
+  - uni_links (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - uni_links (from `.symlinks/plugins/uni_links/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  uni_links:
+    :path: ".symlinks/plugins/uni_links/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+  uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
+  video_player_avfoundation: 7c6c11d8470e1675df7397027218274b6d2360b3
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2

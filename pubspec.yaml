@@ -1,0 +1,24 @@
+name: post_share_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  app_links: ^6.3.2
+  flutter:
+    sdk: flutter
+  go_router: ^14.2.7
+  share: ^2.0.4
+  uni_links: ^0.5.1
+  video_player: ^2.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
